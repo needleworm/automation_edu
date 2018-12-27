@@ -1,16 +1,16 @@
 """
 Author : Byunghyun Ban
-Last Modification : 2018.12.24.
+Last Modification : 2018.12.27.
 """
 import time
 import random
 import os
 
 ALPHABET_SAMPLES = "abcdefghijklmnopqrstuvwxyz"
+NUMBER_SAMPLES = "0123456789"
 
 # number of samples
 NUM_SAMPLES = 2000
-NUMBER_SAMPLES = "0123456789"
 
 
 # a function to generate random string
