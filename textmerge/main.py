@@ -6,7 +6,7 @@ Last Modification : 2018.12.24.
 import os
 
 directory = "personal_info/"
-outfile_name = "merged_personal_info.txt"
+outfile_name = "merged_personal_info.csv"
 
 out_file = open(outfile_name, 'w')
 
