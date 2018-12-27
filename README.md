@@ -7,3 +7,12 @@ learning materials for https://brunch.co.kr/magazine/autonormal
  /textmerge
 
 https://brunch.co.kr/@needleworm/35
+
+https://brunch.co.kr/@needleworm/37
+
+
+
+### 2. Merging different text files into one excel file
+ /textmerge
+
+https://brunch.co.kr/@needleworm/40
