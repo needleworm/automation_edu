@@ -1,3 +1,9 @@
+"""
+Author : Byunghyun Ban
+https://github.com/needleworm
+"""
+
+
 import os
 from PIL import Image
 
