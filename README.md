@@ -16,3 +16,18 @@ https://brunch.co.kr/@needleworm/37
  /textmerge
 
 https://brunch.co.kr/@needleworm/40
+
+
+### 3. Google Image Crawling
+ /image_crawler
+
+https://brunch.co.kr/@needleworm/50
+
+https://brunch.co.kr/@needleworm/51
+
+https://brunch.co.kr/@needleworm/52
+
+### 4. Image size manipulation into square with padding
+/image_square
+
+https://brunch.co.kr/@needleworm/67
