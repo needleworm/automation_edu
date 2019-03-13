@@ -14,7 +14,6 @@ if output_dir not in os.listdir():
     os.mkdir(output_dir)
 
 files = os.listdir(input_dir)
-image_files = []
 
 for el in files:
     splt = el.split(".")
