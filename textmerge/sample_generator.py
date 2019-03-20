@@ -20,8 +20,7 @@ def random_string(length):
 
 
 # make a directory for sample files
-os.popen("mkdir personal_info")
-time.sleep(2)
+os.mkdir("personal_info")
 
 
 # generating sample information
