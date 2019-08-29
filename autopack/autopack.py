@@ -163,6 +163,7 @@ def key_off(string):
     key_code = keymap[string.lower()]
     win32api.keybd_event(key_code, 0, 0x02, 0)
 
+
 # window control
 def get_color(location):
     x, y = location
